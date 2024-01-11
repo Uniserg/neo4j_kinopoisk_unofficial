@@ -1,6 +1,6 @@
 ## Визуализация графа
 <div align="center">
-    <img src='screenshots/Вузализация графа.png'/> 
+    <img src='screenshots/Визуализация графа.png'/> 
 </div>
 
 ## Визуализация схемы графа
